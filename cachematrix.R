@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## John Fountain, Jr. 
+## Simply a redo of the vector version!
 
 ## create a set of functions to cache set/retrieve
 
